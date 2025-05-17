@@ -7,7 +7,7 @@ This is a simple yet beautifully designed 🌈 **Temperature Converter** web app
 
 ## 💻 Demo
 
-🎯 Live Preview: [Click Here](https://sudhanshu-101.github.io/temperature-converter-webapp/)
+🎯 Live Preview: (https://sudhanshu-101.github.io/temperature-converter-webapp/)
 
 ---
 
